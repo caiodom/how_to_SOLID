@@ -1,4 +1,6 @@
-﻿namespace SingleResponsabilityPrinciple;
+﻿using SingleResponsabilityPrinciple.Models;
+
+namespace SingleResponsabilityPrinciple.Calculators;
 
 public class OrderCalculator
 {

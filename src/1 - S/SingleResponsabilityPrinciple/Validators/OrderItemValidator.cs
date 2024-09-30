@@ -1,5 +1,6 @@
-﻿namespace SingleResponsabilityPrinciple;
+﻿using SingleResponsabilityPrinciple.Models;
 
+namespace SingleResponsabilityPrinciple.Validators;
 public class OrderItemValidator
 {
     public void Validate(OrderItem item)

@@ -1,4 +1,6 @@
-﻿namespace SingleResponsabilityPrinciple;
+﻿using SingleResponsabilityPrinciple.Models;
+
+namespace SingleResponsabilityPrinciple.Validators;
 public class OrderValidator
 {
     public void Validate(Order order)

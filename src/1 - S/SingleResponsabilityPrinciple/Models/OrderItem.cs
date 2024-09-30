@@ -1,4 +1,4 @@
-﻿namespace SingleResponsabilityPrinciple;
+﻿namespace SingleResponsabilityPrinciple.Models;
 public class OrderItem
 {
     public string ProductName { get; private set; }

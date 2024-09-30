@@ -1,7 +1,4 @@
-﻿
-namespace SingleResponsabilityPrinciple;
-
-
+﻿namespace SingleResponsabilityPrinciple.Models;
 public class Order
 {
     public List<OrderItem> Items { get; private set; }

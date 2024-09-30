@@ -1,4 +1,7 @@
-﻿using SingleResponsabilityPrinciple;
+﻿using SingleResponsabilityPrinciple.Calculators;
+using SingleResponsabilityPrinciple.Models;
+using SingleResponsabilityPrinciple.Services;
+using SingleResponsabilityPrinciple.Validators;
 
 var items = new List<OrderItem>
         {
