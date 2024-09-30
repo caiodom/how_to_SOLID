@@ -11,7 +11,6 @@ A simple explanation of the SOLID principles of object-oriented programming and 
 - [Interface Segregation Principle (ISP)](#interface-segregation-principle-isp)
 - [Dependency Inversion Principle (DIP)](#dependency-inversion-principle-dip)
 - [Conclusion](#conclusion)
-- [References](#references)
 
 ## Introduction
 
