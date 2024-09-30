@@ -1,6 +1,6 @@
 # SOLID Principles
 
-An in-depth explanation of the SOLID principles of object-oriented programming and design, aiming to help developers create more maintainable, understandable, and flexible software.
+A simple explanation of the SOLID principles of object-oriented programming and design, aiming to help developers create more maintainable, understandable, and flexible software.
 
 ## Table of Contents
 
