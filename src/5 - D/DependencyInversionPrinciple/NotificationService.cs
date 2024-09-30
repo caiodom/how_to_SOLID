@@ -1,15 +1,9 @@
 ﻿namespace DependencyInversionPrinciple;
 
-public class NotificationService
+public class NotificationService(INotificationSender notificationSender)
 {
-    private readonly INotificationSender _notificationSender;
-    public NotificationService(INotificationSender notificationSender)
-    {
-        _notificationSender = notificationSender;
-    }
-
     public void SendNotification(string message)
     {
-        _notificationSender.Send(message);
+        notificationSender.Send(message);
     }
 }
