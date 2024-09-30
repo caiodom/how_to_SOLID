@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - S", "1 - S", "{C5FF9D96-F853-4FA2-B6F5-DB4D453F71B7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - S (Single Responsibility Principle)", "1 - S (Single Responsibility Principle)", "{C5FF9D96-F853-4FA2-B6F5-DB4D453F71B7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - O", "2 - O", "{2F9BA698-5539-440E-8105-08C10EFAAB83}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - O (Open-Closed Principle)", "2 - O (Open-Closed Principle)", "{2F9BA698-5539-440E-8105-08C10EFAAB83}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - L", "3 - L", "{7D38F2AE-FEE8-4390-8DDC-E57C6F37B6B3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - L (Liskov Substitution Principle)", "3 - L (Liskov Substitution Principle)", "{7D38F2AE-FEE8-4390-8DDC-E57C6F37B6B3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - I", "4 - I", "{DFEFE771-743A-48AD-BB51-FCA4600AC082}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - I (Interface Segregation Principle)", "4 - I (Interface Segregation Principle)", "{DFEFE771-743A-48AD-BB51-FCA4600AC082}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - D", "5 - D", "{5869711B-75CB-4F72-B358-373C576E5B9D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - D (Dependency Inversion Principle)", "5 - D (Dependency Inversion Principle)", "{5869711B-75CB-4F72-B358-373C576E5B9D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - before", "1 - before", "{D3831516-3D4A-43D3-896F-6ADBC4E6EC68}"
 EndProject
